@@ -1,0 +1,12 @@
+*\venv
+tema1/data/cifar-10-batches-py/batches.meta
+tema1/data/cifar-10-batches-py/data_batch_1
+tema1/data/cifar-10-batches-py/data_batch_2
+tema1/data/cifar-10-batches-py/data_batch_3
+tema1/data/cifar-10-batches-py/data_batch_4
+tema1/data/cifar-10-batches-py/data_batch_5
+tema1/data/cifar-10-batches-py/readme.html
+tema1/data/cifar-10-batches-py/test_batch
+tema1/data/cifar-10-python.tar
+tema1/data/cifar-10-python.tar.gz
+tema4/data/salveazaFisiere
